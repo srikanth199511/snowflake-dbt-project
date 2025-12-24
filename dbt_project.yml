@@ -1,0 +1,7 @@
+name: 'dbt_first_project'
+
+model-paths: ["models"]
+
+
+
+
